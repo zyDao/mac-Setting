@@ -1,0 +1,3 @@
+[
+	 { "keys": ["command+m"], "command": "markdown_preview", "args": { "target": "browser"} }
+]

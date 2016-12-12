@@ -1,0 +1,17 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Babel",
+		"Emmet",
+		"Markdown Preview",
+		"Package Control",
+		"react-native-snippets",
+		"ReactJS",
+		"Terminal",
+		"Theme - Solarized Flat"
+	]
+}
